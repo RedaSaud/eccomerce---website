@@ -19,7 +19,23 @@
 Note press "q" if you did not get out 
 5. to check what you comit: git log
 6. since git log, giving you many details you can use: git log --oneline  to have only the id of the version
-
+7. to get back to one version: git checkout "id"
+8. to get back the lastest version: git checkout master
+---
+Now if you want to move it to github:
+1. create repo
+2. inside the repo you will see git remote add origin https... (note origin just the name to call it then)
+3. to check where you have it then: git remote -v
+Note: The above points to create connection Below will be the push to get the versions inside
+1. to change the branch git bramch.. (the code is below the remote one)
+2. to move the version inside: git push -u origin main
+3. refersh from github to see the version there
+---
+After that the only thing you will do this:
+1. do the changes you need
+2. git add .
+3. git commit -m "..."
+4. git push
 -->
   </body>
 </html>
