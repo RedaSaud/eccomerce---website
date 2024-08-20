@@ -1,4 +1,4 @@
-#My name is Reda and this is my profile:
+# My name is Reda and this is my profile:
 
 - My major is Mathematics
 - I like playing football a looot 🤓
